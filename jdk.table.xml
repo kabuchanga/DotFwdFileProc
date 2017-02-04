@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at C:\Users\Kabuchanga\AppData\Local\Enthought\Canopy32\User" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="C:\Users\Kabuchanga\AppData\Local\Enthought\Canopy32\User\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Scripts/python.exe" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.3/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.3/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.3/ArcToolbox/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-976634043" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
